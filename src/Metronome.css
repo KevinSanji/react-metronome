@@ -1,0 +1,15 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: 'Menlo', monospace !important;
+}
+
+button {
+  font-family: 'Menlo', monospace;
+}
+
+.metronome {
+  text-align: center;
+  border: 2px solid;
+  margin: 2rem;
+}
