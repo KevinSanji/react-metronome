@@ -62,6 +62,7 @@ class Metronome extends Component {
 
     return(
       <div className="metronome">
+        <h1>Young Metro(nome)</h1>
         <div className="bpm-slider">
           <div>{bpm} BPM</div>
           <input
